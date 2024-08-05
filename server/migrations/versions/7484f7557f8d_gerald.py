@@ -1,8 +1,8 @@
-"""add active column
+"""gerald
 
-Revision ID: 61305fff2ecb
+Revision ID: 7484f7557f8d
 Revises: 
-Create Date: 2024-08-01 15:35:44.143798
+Create Date: 2024-08-05 11:25:23.986958
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '61305fff2ecb'
+revision = '7484f7557f8d'
 down_revision = None
 branch_labels = None
 depends_on = None
